@@ -1,1 +1,2 @@
 New File test in the folder MyProject2
+Edit File2
