@@ -1,2 +1,1 @@
-test2
-file test2
+New File test in the folder MyProject2
